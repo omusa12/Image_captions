@@ -1,0 +1,5 @@
+Image Captioning Project
+
+Use pre-trained InceptionV3 model extracting its last layer.
+
+Train image captions using RNN.
