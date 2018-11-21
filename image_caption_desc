@@ -3,3 +3,5 @@ Image Captioning Project
 Use pre-trained InceptionV3 model extracting its last layer.
 
 Train image captions using RNN.
+
+The Result is a trained model that creates captions when an image is provided
